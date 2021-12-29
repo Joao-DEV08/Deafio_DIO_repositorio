@@ -1,2 +1,6 @@
 # Desafio DIO sobre Git/GitHub
-Desafio de repositório da DIO, criando meu primeiro repositório público usando o Git/GitHub
+criando meu primeiro repositório, para os projetos e materiais de estudo da plataforma DIO
+
+## índice:
+
+* Curso Git/GitHub
