@@ -8,3 +8,5 @@ git commit e git commit -m: commita o arquivo para atualizar seu status,
 o -m serve para colocar uma mensagem do que foi commitado
 
 git push: manda por fim, os arquivos atualizados lá no GitHub.
+
+git init: inicia um novo repositório via o próprio Git.
