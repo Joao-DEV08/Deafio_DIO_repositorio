@@ -1,0 +1,10 @@
+git status: serve para verificar a situação dos 
+arquivos dentro do repositório.
+
+git add e git add -a: adiciona os novos arquivos 
+para o repositório.
+
+git commit e git commit -m: commita o arquivo para atualizar seu status, 
+o -m serve para colocar uma mensagem do que foi commitado
+
+git push: manda por fim, os arquivos atualizados lá no GitHub.
