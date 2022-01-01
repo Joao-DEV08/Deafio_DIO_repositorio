@@ -1,0 +1,37 @@
+Anotações curso de HTML5:
+
+O Html foi criado em 1991, contém 5 versões, pra entender como funciona o html, é 
+necessário saber como funciona o elemento html: 
+
+<h1 class = "titulo"> Título</h1>
+
+h1: é uma tag que pode dizer algo ao navegador
+class = "titulo": atributo 
+Título: conteúdo
+
+Estrutura HTML:
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta>
+  <title><</title>
+ </head>
+ <body>
+ </body>
+</html>
+
+Semântica: 
+
+Nas versões anteriores do HTML, só existiam as <divs>, porém isso ficou um tanto complicado.
+Na nova versão, recebemos os tipos <headers>, <section>, <aside>, <h1> - <h6> e por aí vai.
+
+O motivo da criação do html, foi o compartilhamento de textos, os elementos <p> e <a>, interligam
+textos e links, o que faz com que sejam muito importantes.
+
+Tag <img>: é uma tag para colocar fotos em um site, alt seria um complemento da tag para
+descrever a foto ou imagem caso, algum dia ela pare de existir
+
+Tag <ul>: serve para mostrar listas, mas a ordem dos itens não tem prioridade.
+tag <ol>: mesma coisa do anterior, porém, os itens precisam estar em ordem.
+

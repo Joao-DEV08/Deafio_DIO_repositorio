@@ -1,0 +1,13 @@
+Em 1996, foi criado o CSS, para formatar as páginas da web com estilos diferentes.
+
+seletores: 
+
+a, p, h1, h3 {
+  color: blue;
+  font-size: 14px;
+}
+
+No exemplo acima, temos os elementos que serão modificados e a modificação, no caso para cor
+azul e o tamanho da fonte para 14.
+
+
