@@ -4,3 +4,4 @@ criando meu primeiro repositório, para os projetos e materiais de estudo da pla
 ## índice:
 
 * Curso Git/GitHub
+* Curso de HTML5 e CSS3
